@@ -1,0 +1,11 @@
+/home/honfi/Dokumentumok/prog/c_sharp_date_goodies/bin/Debug/netcoreapp2.1/c_sharp_date_goodies.deps.json
+/home/honfi/Dokumentumok/prog/c_sharp_date_goodies/bin/Debug/netcoreapp2.1/c_sharp_date_goodies.runtimeconfig.json
+/home/honfi/Dokumentumok/prog/c_sharp_date_goodies/bin/Debug/netcoreapp2.1/c_sharp_date_goodies.runtimeconfig.dev.json
+/home/honfi/Dokumentumok/prog/c_sharp_date_goodies/bin/Debug/netcoreapp2.1/c_sharp_date_goodies.dll
+/home/honfi/Dokumentumok/prog/c_sharp_date_goodies/bin/Debug/netcoreapp2.1/c_sharp_date_goodies.pdb
+/home/honfi/Dokumentumok/prog/c_sharp_date_goodies/obj/Debug/netcoreapp2.1/c_sharp_date_goodies.csprojAssemblyReference.cache
+/home/honfi/Dokumentumok/prog/c_sharp_date_goodies/obj/Debug/netcoreapp2.1/c_sharp_date_goodies.csproj.CoreCompileInputs.cache
+/home/honfi/Dokumentumok/prog/c_sharp_date_goodies/obj/Debug/netcoreapp2.1/c_sharp_date_goodies.AssemblyInfoInputs.cache
+/home/honfi/Dokumentumok/prog/c_sharp_date_goodies/obj/Debug/netcoreapp2.1/c_sharp_date_goodies.AssemblyInfo.cs
+/home/honfi/Dokumentumok/prog/c_sharp_date_goodies/obj/Debug/netcoreapp2.1/c_sharp_date_goodies.dll
+/home/honfi/Dokumentumok/prog/c_sharp_date_goodies/obj/Debug/netcoreapp2.1/c_sharp_date_goodies.pdb
