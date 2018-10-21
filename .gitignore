@@ -1,3 +1,5 @@
 *.dll
 *.runtimeconfig.*
 *.pdb
+*.chache
+*.json
